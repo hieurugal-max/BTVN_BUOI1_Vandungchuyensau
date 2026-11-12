@@ -1,0 +1,60 @@
+THIẾT KẾ PROMPT SO SÁNH IPHONE VÀ SAMSUNG
+Bước 1. Phân tích Input và Output
+Input:
+- Điện thoại 1: iPhone 16 Pro Max
+- Điện thoại 2: Samsung Galaxy S24 Ultra
+- Nội dung cần so sánh: dung lượng pin, thời gian sử dụng pin, camera trước, camera sau và khả năng zoom
+- Nguồn thông tin: Website chính thức của Apple và Samsung
+Output:
+- Bảng so sánh ngang giữa hai điện thoại
+- Nêu 2 điểm mạnh của mỗi máy
+- Có nguồn tham khảo rõ ràng
+- Thiếu thông tin phải ghi "Chưa xác thực", không tự đoán
+Bước 2. Viết Prompt theo khung CREATE
+C – Context (Ngữ cảnh):
+
+Bạn là người chuyên tìm hiểu và đánh giá điện thoại. Khách hàng muốn biết sự khác nhau giữa iPhone 16 Pro Max và Samsung Galaxy S24 Ultra.
+
+R – Request (Yêu cầu):
+
+So sánh hai điện thoại về pin và camera, trình bày bằng bảng ngang.
+
+E – Explanation (Giải thích):
+
+Cần kiểm tra các thông tin:
+- Dung lượng pin.
+- Thời gian xem video.
+- Độ phân giải camera trước và sau.
+- Khả năng zoom của camera.
+A – Action (Hành động):
+- Tìm thông số trên website chính thức của Apple và Samsung.
+- Đối chiếu thông tin của đúng hai phiên bản điện thoại.
+- Lập bảng so sánh.
+- Chọn ra 2 điểm mạnh của mỗi máy.
+T – Tone (Giọng điệu):
+
+Viết ngắn gọn, dễ hiểu, khách quan, không thiên vị thương hiệu.
+
+E – Extras (Ràng buộc):
+- Không lấy thông tin từ nguồn không chính thức
+- Không tự bịa hoặc suy đoán thông số
+
+
+Bước 3. Chạy thử và nộp kết quả
+1. Bảng so sánh kết quả
+Tiêu chí	                 iPhone 16 Pro Max	            Samsung S24 Ultra
+Dung lượng pin	                    Chưa xác thực	               5.000 mAh
+Thời gian xem video	                33 giờ                  	30 giờ
+Camera sau	                  48MP + 48MP + 12MP	        200MP + 50MP + 12MP + 10MP
+Camera trước	                         12MP	                          12MP
+Zoom quang học	                          5x	                        3x và 5x
+Zoom kỹ thuật số	                  25x	                           100x
+
+2. Hai điểm mạnh của mỗi máy
+
+- iPhone 16 Pro Max:
+- Thời gian xem video lên đến 33 giờ
+- Camera hỗ trợ quay video 4K Dolby Vision và zoom quang học 5x
+- Samsung Galaxy S24 Ultra
+- Pin 5.000 mAh
+- Camera chính 200MP, zoom kỹ thuật số lên đến 100x
